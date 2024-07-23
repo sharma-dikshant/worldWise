@@ -3,7 +3,6 @@ import Homepage from "./pages/Homepage";
 import Pricing from "./pages/Pricing";
 import Product from "./pages/Product";
 import Pagenotfound from "./Pagenotfound";
-import PageNav from "./components/PageNav";
 import AppLayout from "./pages/AppLayout";
 import Login from "./pages/Login";
 
